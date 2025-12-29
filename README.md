@@ -1,6 +1,9 @@
 # EfficientNet-B0-Multi-Scale-Feature-Fusion-with-Enhanced-Skip-Connections-for-Polyp-Segmentation
 This repo contains the research work on polyp segmentation with custom Efficientnet-Unet
 
+<img width="1053" height="809" alt="image" src="https://github.com/user-attachments/assets/462180a4-e6ef-436b-ac15-f63e5389bdf3" />
+
+
 ## Dataset Description
 The <bold>CVC-ClinicDB dataset</bold>. is a publicly available
 benchmark designed for the evaluation of computer-aided
